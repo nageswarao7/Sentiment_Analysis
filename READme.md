@@ -1,4 +1,4 @@
-# Sentiment Analysis Using BERT
+# Sentiment Analysis Using BERT Model
 
 ## Sentiment Analysis API
 
