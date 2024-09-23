@@ -1,4 +1,6 @@
-# Sentiment Analysis API
+# Sentiment Analysis Using BERT
+
+## Sentiment Analysis API
 
 This project provides a Flask-based API for sentiment analysis using a pre-trained BERT model. It predicts the sentiment of movie reviews (positive or negative) based on input text.
 
@@ -21,7 +23,8 @@ This project provides a Flask-based API for sentiment analysis using a pre-train
 - Transformers
 - Scikit-learn
 
-## Streamlit App
+## Sentiment Analysis for Streamlit App
+
 The project includes a Streamlit application that provides a user-friendly interface for sentiment analysis. Users can enter movie reviews directly into the app, and it will display the predicted sentiment in real-time. The app leverages the same BERT model used in the Flask API, allowing for seamless integration and testing of the sentiment analysis capabilities.
 
 ## Requirements
